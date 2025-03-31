@@ -1,0 +1,16 @@
+{
+  "name": "website-screenshot-inverter",
+  "version": "1.0.0",
+  "description": "使用 MCP 协议和 Puppeteer 截图网站并反转颜色",
+  "main": "index.js",
+  "scripts": {
+    "start": "node mcp_server.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.2.0",
+    "@modelcontextprotocol/sdk": "^1.8.0",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}

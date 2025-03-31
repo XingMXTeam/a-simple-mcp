@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "ping-pong-server": {
+            "command": "node /System/Volumes/Data/Users/felix/Desktop/mcp/mcp_server.js",
+            "description": "Ping pong MCP server"
+        }
+    }
+}
