@@ -1,4 +1,7 @@
-# 网站截图与颜色反转工具
+## 调试mcp
+`npx @modelcontextprotocol/inspector node mcp_server.js`  
+
+## 网站截图与颜色反转工具
 
 这个项目使用 Model Context Protocol (MCP) 和 Puppeteer 服务器来截取网站截图并反转颜色。
 

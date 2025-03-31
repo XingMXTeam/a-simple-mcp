@@ -10,7 +10,9 @@
     "@google/generative-ai": "^0.2.0",
     "@modelcontextprotocol/sdk": "^1.8.0",
     "dotenv": "^16.3.1",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "zod": "^3.24.2"
   },
-  "type": "module"
+  "type": "module",
+  "repository": "https://github.com/XingMXTeam/a-simple-mcp.git"
 }
